@@ -1,0 +1,8 @@
+<module rename-to="calculator">
+	<inherits name="com.github.gwtboot.starter.Starter" />
+	<inherits name="elemental2.core.Core" />
+	<inherits name="elemental2.dom.Dom" />
+	<inherits name="com.example.demo.SpringWebSocketAPI" />
+	
+	<entry-point class='com.github.lofi.client.AppEntryPoint' />
+</module>
